@@ -1,6 +1,6 @@
-# JSPlaygrounds
+# Javascript Playground
 
-[Show me the demo!](https://stephengrider.github.io/JSPlaygrounds/)
+[Show me the demo!](https://kcak11.github.io/play)
 
 ### Running Locally
 
