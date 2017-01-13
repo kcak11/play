@@ -1,4 +1,4 @@
-# Javascript Playgrounds
+# Javascript Playground
 
 [Show me the demo!](https://kcak11.github.io/play/)
 
