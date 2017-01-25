@@ -1,3 +1,4 @@
+const webpack = require('webpack');
 const path = require('path');
 
 module.exports = {
@@ -9,6 +10,13 @@ module.exports = {
     publicPath: '/',
     filename: 'bundle.js'
   },
+  plugins:[
+	new webpack.optimize.UglifyJsPlugin({
+		compressor:{
+			warnings:false
+		}
+	})
+  ],
   module: {
     loaders: [{
       exclude: /node_modules/,
