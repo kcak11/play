@@ -12,5 +12,3 @@
 ### Contributing
 
 Please do!
-
-
